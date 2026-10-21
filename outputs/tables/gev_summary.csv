@@ -1,0 +1,3 @@
+station,n_windows,first_window_end,last_window_end,rl_200_min,window_of_min,rl_200_median,rl_200_max,window_of_max,rl_200_last_window,xi_min,xi_max,share_xi_positive,n_not_converged,median_abs_diff_ml_lmom_mm,max_abs_diff_ml_lmom_mm,n_windows_qc,max_abs_diff_asis_qc_mm,n_windows_consecutive
+bologna,166,1842,2007,72.365,1934-1963,141.472,315.782,1921-1950,129.108,-0.512,0.400,0.669,1,5.240,76.706,166,0.000,166
+padova,261,1754,2019,68.686,1807-1836,123.767,276.698,1947-1976,185.726,-0.404,0.479,0.759,0,4.725,94.160,230,25.199,252

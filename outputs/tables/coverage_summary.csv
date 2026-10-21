@@ -1,0 +1,7 @@
+world,station,model,n_records,truth_mm,coverage,coverage_se,nominal,share_truth_above_band,share_truth_below_band,median_rel_error,rmse_rel,median_rel_width
+ordinary,bologna,GEV,500,154.9327,0.8420,0.0163,0.9000,0.1340,0.0240,-0.0133,0.5209,1.2201
+ordinary,bologna,MEV,500,154.9327,0.7380,0.0197,0.9000,0.0640,0.1980,0.1264,0.2401,0.3512
+gev,bologna,GEV,500,144.7766,0.8000,0.0179,0.9000,0.1780,0.0220,-0.0352,0.3922,0.9715
+ordinary,padova,GEV,500,140.8795,0.8520,0.0159,0.9000,0.1280,0.0200,-0.0251,0.3573,0.9897
+ordinary,padova,MEV,500,140.8795,0.6780,0.0209,0.9000,0.0260,0.2960,0.1299,0.2099,0.2904
+gev,padova,GEV,500,119.5119,0.8200,0.0172,0.9000,0.1500,0.0300,-0.0249,0.4163,0.9584

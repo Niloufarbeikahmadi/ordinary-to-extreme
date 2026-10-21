@@ -1,0 +1,3 @@
+station,gev_min,gev_median,gev_max,gev_cv,gev_median_step,gev_max_step,mev_min,mev_median,mev_max,mev_cv,mev_median_step,mev_max_step,share_gev_above_mev,corr_gev_mev
+bologna,72.365,141.472,315.782,0.324,3.461,63.606,129.788,151.595,176.903,0.072,0.238,24.197,0.319,0.523
+padova,68.686,123.767,276.698,0.249,3.142,80.167,106.178,134.741,175.544,0.093,0.426,10.137,0.337,0.461

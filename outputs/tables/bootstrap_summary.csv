@@ -1,0 +1,3 @@
+station,n_windows,gev_rel_width_median,mev_rel_width_median,width_ratio_gev_to_mev_median,gev_rel_width_min,window_gev_rel_width_min,gev_p95_max_mm,mev_p95_max_mm,n_windows_gev_above_mev,n_windows_mev_above_gev,max_share_lower_bound,max_share_upper_bound,n_windows_upper_bound_ge_5pct,last_window_end,last_mev_p5,last_mev_rl,last_mev_p95,last_gev_p5,last_gev_rl,last_gev_p95,n_windows_mev_band_disjoint_from_last
+bologna,166,1.2037,0.2382,4.9306,0.1384,1963,1563.2794,199.2486,3,15,0.0760,0.0520,1,2007,141.5737,152.4186,160.2184,90.4465,129.1085,203.6319,0
+padova,261,1.0917,0.1498,6.6770,0.2084,1760,927.3793,189.3748,0,32,0.1080,0.0340,0,2019,152.9109,170.2394,184.6410,105.5361,185.7265,398.3347,208

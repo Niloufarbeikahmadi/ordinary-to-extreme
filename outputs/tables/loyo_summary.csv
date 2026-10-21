@@ -1,0 +1,5 @@
+model,n_years,ks_pvalue,exceed_10_observed,exceed_10_expected,exceed_10_binom_p,exceed_50_observed,exceed_50_expected,exceed_50_binom_p,station
+GEV,184,0.4252,19,18.4000,0.9019,7,3.6800,0.1023,bologna
+MEV,184,0.0694,18,18.4000,1.0000,3,3.6800,1.0000,bologna
+GEV,263,0.9019,31,26.3000,0.3538,11,5.2600,0.0229,padova
+MEV,263,0.1283,16,26.3000,0.0308,4,5.2600,0.8240,padova
