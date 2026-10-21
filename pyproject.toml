@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rainfall-extremes"
+version = "1.0.0"
+description = "Moving-window extreme daily rainfall analysis (GEV vs non-asymptotic MEVD-Weibull) for the Bologna and Padova records"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Niloufar Beikahmadi" }]
+dependencies = ["numpy>=1.26", "pandas>=2.2", "scipy>=1.11", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

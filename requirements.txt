@@ -1,0 +1,9 @@
+# Runtime dependencies
+# Tested with Python 3.12 (Anaconda / Spyder) and Python 3.13.
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+matplotlib>=3.8
+
+# Development / testing (optional)
+pytest>=8.0
